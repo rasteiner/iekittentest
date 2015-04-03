@@ -1,0 +1,19 @@
+{
+  "name": "iekittentest",
+  "version": "1.0.0",
+  "description": "Kitten destroy Internet Explorer",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "derby", "mini"
+  ],
+  "dependencies": {
+    "derby": "0.6.0-alpha35",
+    "derby-starter": "^0.2.6",
+    "derby-debug": "^0.1.0"
+  },
+  "author": "",
+  "license": "MIT"
+}
